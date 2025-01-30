@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: umq4i3z5k-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/umq4i3z5k-go
